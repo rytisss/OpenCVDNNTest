@@ -1,8 +1,0 @@
-{
-  "name": "Hole Detection",
-  "purpose": "Segmentation",
-  "description": "Single model",
-  "inputWidth": 320,
-  "inputHeight": 320,
-  "channels": 1
-}
